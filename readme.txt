@@ -6,3 +6,4 @@ Git tracks changes of files.
 4567
 Creating a new branch is quick and simple ISSUE-101.
 test git merge --no-ff
+bug
