@@ -5,3 +5,4 @@ Git tracks changes of files.
 111222333
 4567
 Creating a new branch is quick and simple.
+test git merge --no-ff
